@@ -1,0 +1,8 @@
+/* Save as style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+h1 { color: #2c3e50; }
+h2 { color: #34495e; }
+ul { line-height: 1.6; }
